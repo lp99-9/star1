@@ -1,2 +1,2 @@
 # star1
-my-first-project
+my-project
